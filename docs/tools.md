@@ -26,6 +26,7 @@
 * [HandBrake](https://github.com/HandBrake/HandBrake) - 视频转码器，适用于 Linux、Mac 和 Windows
 
 * [7-Zip](https://github.com/ip7z/7zip) - 免费开源的文件解压工具
+* [LocalSend](https://localsend.org) - 跨平台开源局域网文件传输工具，无需账号或互联网连接，可作为 AirDrop 的替代方案（[源码](https://github.com/localsend/localsend)）。
 
 ## 办公
 
@@ -42,8 +43,7 @@
 * [pywechat](https://github.com/Hello-Mr-Crab/pywechat) - windows桌面微信自动化
 
 * [drawio](https://github.com/jgraph/drawio) - 免费开源的流程图、架构图绘制工具
-
-
+* [Excalidraw](https://excalidraw.com) - 支持多人实时协作的手绘风格白板，适合绘制流程图、架构图和头脑风暴草图（[源码](https://github.com/excalidraw/excalidraw)）。
 
 ## 开发
 
@@ -65,7 +65,7 @@
 
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - 3D参数化建模器
 
-
+* [CloudCompare](https://www.cloudcompare.org) - 开源三维点云与网格处理软件，支持点云配准、分割、测量、距离计算和多源数据对比（[源码](https://github.com/CloudCompare/CloudCompare)）。
 
 ## 其他
 
@@ -128,6 +128,8 @@
 
 * [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - 基于 AI 完整保留排版的 PDF 文档全文双语翻译
 
+* [Zotero](https://github.com/zotero/zotero) - 免费开源的文献管理工具，收集、整理和引用论文
+
 ### GIS
 
 * [QGIS](https://qgis.org/) - 开源桌面 GIS，支持矢量、栅格数据的查看、编辑和分析。
@@ -137,6 +139,11 @@
 * [GeoServer](https://geoserver.org/) - 发布和管理空间数据的开源服务器，支持 WMS、WFS 等服务。
 
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - 交互式代码笔记，数据分析
+
+* [Pandoc](https://github.com/jgm/pandoc) - 万能的文档转换工具，Markdown 可以一键转成 Word、PDF、网页等格式
+
+* [Zotero](https://github.com/zotero/zotero) - 免费的文献管理软件，自动抓取论文信息，还能按格式生成参考文献
+
 
 ## 常见
 
